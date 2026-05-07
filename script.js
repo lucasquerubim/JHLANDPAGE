@@ -4,7 +4,7 @@
 
 // ⚠️ COLE AQUI A URL DO SEU GOOGLE APPS SCRIPT
 // (instruções no README.md)
-const APPS_SCRIPT_URL = 'COLE_AQUI_A_URL_DO_SEU_APPS_SCRIPT';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzIW-NYjZ7TVOsr36ZYoXM842B0alABYwIX1xMiaEPR98U4j9G-bIDpfARGupSso-9Eyg/exec';
 
 
 // ============================================
